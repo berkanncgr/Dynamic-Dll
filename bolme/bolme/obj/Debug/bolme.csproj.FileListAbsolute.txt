@@ -1,0 +1,6 @@
+C:\Users\Yasir\Desktop\ileri programlama\bolme\bolme\bin\Debug\bolme.dll
+C:\Users\Yasir\Desktop\ileri programlama\bolme\bolme\bin\Debug\bolme.pdb
+C:\Users\Yasir\Desktop\ileri programlama\bolme\bolme\obj\Debug\bolme.csprojAssemblyReference.cache
+C:\Users\Yasir\Desktop\ileri programlama\bolme\bolme\obj\Debug\bolme.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\Desktop\ileri programlama\bolme\bolme\obj\Debug\bolme.dll
+C:\Users\Yasir\Desktop\ileri programlama\bolme\bolme\obj\Debug\bolme.pdb

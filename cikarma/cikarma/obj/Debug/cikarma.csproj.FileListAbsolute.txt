@@ -1,0 +1,6 @@
+C:\Users\Yasir\Desktop\ileri programlama\cikarma\cikarma\bin\Debug\cikarma.dll
+C:\Users\Yasir\Desktop\ileri programlama\cikarma\cikarma\bin\Debug\cikarma.pdb
+C:\Users\Yasir\Desktop\ileri programlama\cikarma\cikarma\obj\Debug\cikarma.csprojAssemblyReference.cache
+C:\Users\Yasir\Desktop\ileri programlama\cikarma\cikarma\obj\Debug\cikarma.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\Desktop\ileri programlama\cikarma\cikarma\obj\Debug\cikarma.dll
+C:\Users\Yasir\Desktop\ileri programlama\cikarma\cikarma\obj\Debug\cikarma.pdb

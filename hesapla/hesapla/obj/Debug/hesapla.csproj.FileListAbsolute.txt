@@ -1,0 +1,6 @@
+C:\Users\Yasir\Desktop\ileri programlama\hesapla\hesapla\bin\Debug\hesapla.dll
+C:\Users\Yasir\Desktop\ileri programlama\hesapla\hesapla\bin\Debug\hesapla.pdb
+C:\Users\Yasir\Desktop\ileri programlama\hesapla\hesapla\obj\Debug\hesapla.csprojAssemblyReference.cache
+C:\Users\Yasir\Desktop\ileri programlama\hesapla\hesapla\obj\Debug\hesapla.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\Desktop\ileri programlama\hesapla\hesapla\obj\Debug\hesapla.dll
+C:\Users\Yasir\Desktop\ileri programlama\hesapla\hesapla\obj\Debug\hesapla.pdb

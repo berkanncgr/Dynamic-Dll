@@ -1,0 +1,6 @@
+C:\Users\Yasir\Desktop\ileri programlama\toplama\toplama\bin\Debug\toplama.dll
+C:\Users\Yasir\Desktop\ileri programlama\toplama\toplama\bin\Debug\toplama.pdb
+C:\Users\Yasir\Desktop\ileri programlama\toplama\toplama\obj\Debug\toplama.csprojAssemblyReference.cache
+C:\Users\Yasir\Desktop\ileri programlama\toplama\toplama\obj\Debug\toplama.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\Desktop\ileri programlama\toplama\toplama\obj\Debug\toplama.dll
+C:\Users\Yasir\Desktop\ileri programlama\toplama\toplama\obj\Debug\toplama.pdb

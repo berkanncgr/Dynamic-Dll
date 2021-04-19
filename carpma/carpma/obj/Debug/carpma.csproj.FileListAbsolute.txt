@@ -1,0 +1,6 @@
+C:\Users\Yasir\Desktop\ileri programlama\carpma\carpma\bin\Debug\carpma.dll
+C:\Users\Yasir\Desktop\ileri programlama\carpma\carpma\bin\Debug\carpma.pdb
+C:\Users\Yasir\Desktop\ileri programlama\carpma\carpma\obj\Debug\carpma.csprojAssemblyReference.cache
+C:\Users\Yasir\Desktop\ileri programlama\carpma\carpma\obj\Debug\carpma.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\Desktop\ileri programlama\carpma\carpma\obj\Debug\carpma.dll
+C:\Users\Yasir\Desktop\ileri programlama\carpma\carpma\obj\Debug\carpma.pdb
